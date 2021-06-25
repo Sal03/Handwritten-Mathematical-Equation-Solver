@@ -1,6 +1,4 @@
-"""
-Author: KANCHI TANK 
-"""
+
 
 import tkinter as tk
 from PIL import ImageGrab
